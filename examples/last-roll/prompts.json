@@ -1,0 +1,111 @@
+{
+  "title": "最后一卷",
+  "generation_mode": "Built-in image_gen",
+  "backend_model_id": null,
+  "model_note": "Tool did not expose the backend model identifier. No claim of gpt-image-2 is made.",
+  "image_type": "AI-generated original concept images",
+  "web_export": "JPEG exports from the generated PNG originals; no semantic retouching during export.",
+  "assets": [
+    {
+      "asset": "character-daughter",
+      "output": "images/character-daughter.jpg",
+      "tool": "image_gen",
+      "prompt": "Use case: photorealistic-natural. Asset type: character reference photograph for an original contemporary Chinese short film, not an existing film still. Create one photorealistic waist-up portrait of an ordinary Chinese woman about 30, short straight black bob ending above her jaw, slightly broad cheekbones, unretouched skin, thoughtful composed gaze, no glamour makeup. She wears a faded gray-blue work jacket over a cream cotton shirt and has a plain off-white canvas shoulder bag. Standing naturally near a small county-town photography shop entrance, modest aged turquoise metal door frame softly out of focus behind her. Soft overcast late-afternoon daylight, realistic warm skin and worn cotton texture, restrained ordinary colors, no forced gray filter. Eye-level, 4:5 portrait composition, hands naturally relaxed if visible. No other people, no text, no watermark, no collage.",
+      "references": []
+    },
+    {
+      "asset": "character-shopkeeper",
+      "output": "images/character-shopkeeper.jpg",
+      "tool": "image_gen",
+      "prompt": "Use case: photorealistic-natural. Asset type: character reference photograph for an original contemporary Chinese short film, not an existing film still. Create one photorealistic waist-up portrait of an ordinary Chinese male photography-shop keeper about 60, thin build, close-cropped gray hair, mild forehead wrinkles, narrow face, patient unposed expression, no stylized moustache or glasses. Wears a worn brown knitted cardigan over a light beige collared shirt. He stands behind the glass counter of a modest small county-town photography shop; a few film cameras and an old desktop monitor out of focus. Soft window daylight mixes with modest cool fluorescent room light, realistic skin pores and cardigan weave, dignified everyday atmosphere, no glamorous dramatic lighting. Eye-level 4:5 portrait. One person only, no text, no watermark, no collage.",
+      "references": []
+    },
+    {
+      "asset": "scene-shop",
+      "output": "images/scene-shop.jpg",
+      "tool": "image_gen",
+      "prompt": "Use case: photorealistic-natural. Asset type: location reference for an original contemporary Chinese short film. A single wide 16:9 photorealistic eye-level view from the pavement into a small county-town Chinese photography shop on an overcast late afternoon. Consistent architectural layout: faded turquoise metal storefront, large glass window on LEFT, open glazed entry door on RIGHT, a long low glass counter extending from front-left towards the rear wall; analog cameras beneath the counter, old desktop computer at the back, a plain wooden stool inside by the window. Cream plaster walls, modest fluorescent ceiling tube, everyday electrical wiring, believable clean wear. The blank faded fascia has NO readable lettering. A quiet ordinary street reflected faintly in glass. Empty of people. Balanced observational framing with exterior pavement and interior together, soft daylight, natural colors, subtle reflections, realistic textures. No ruins, no exaggerated decay, no orange-teal grade, no watermark, no collage.",
+      "references": []
+    },
+    {
+      "asset": "shot-01",
+      "output": "images/shot-01.jpg",
+      "tool": "image_gen",
+      "prompt": "Use case: photorealistic-natural. Produce a new single photorealistic 16:9 cinematic concept frame for the original short 'The Last Roll'. Input image 1 is the identity and clothing reference for the daughter (30, short black bob, gray-blue jacket, cream shirt, off-white canvas shoulder bag). Input image 2 is the identity/clothing reference for the thin older shopkeeper (60, short gray hair, brown knit cardigan, beige shirt). Input image 3 is the exact location reference: faded turquoise storefront, large LEFT window, open RIGHT glazed door, glass counter on LEFT extending toward the back, old cameras and computer, wooden stool. Preserve faces, hair, wardrobe, architecture and soft overcast afternoon light; natural skin, lived-in texture, no glamour filter. These are references for a fresh composition, not targets to reproduce. No captions, lettering, watermark, collage or extra people. Shot 01: wide static eye-level view from the quiet pavement, closely matching the location reference's front elevation. Daughter seen full-body in three-quarter back view is just crossing the RIGHT doorway into the shop, her canvas bag on the same shoulder as the reference. The shopkeeper stands well inside behind the LEFT glass counter, small in the frame. Both the modest street edge and the shop interior remain readable. No film box visible yet. Emphasize shared environment and ordinary unhurried arrival, not facial melodrama.",
+      "references": [
+        "images/character-daughter.jpg",
+        "images/character-shopkeeper.jpg",
+        "images/scene-shop.jpg"
+      ]
+    },
+    {
+      "asset": "shot-03",
+      "output": "images/shot-03.jpg",
+      "tool": "image_gen",
+      "prompt": "Use case: photorealistic-natural. Produce a new single photorealistic 16:9 cinematic concept frame for the original short 'The Last Roll'. Input image 1 is the identity and clothing reference for the daughter (30, short black bob, gray-blue jacket, cream shirt, off-white canvas shoulder bag). Input image 2 is the identity/clothing reference for the thin older shopkeeper (60, short gray hair, brown knit cardigan, beige shirt). Input image 3 is the exact location reference: faded turquoise storefront, large LEFT window, open RIGHT glazed door, glass counter on LEFT extending toward the back, old cameras and computer, wooden stool. Preserve faces, hair, wardrobe, architecture and soft overcast afternoon light; natural skin, lived-in texture, no glamour filter. These are references for a fresh composition, not targets to reproduce. No captions, lettering, watermark, collage or extra people. Shot 03: close-up detail above the same LEFT glass counter. Only hands, part of torsos and the edge of the daughter's off-white canvas bag are visible. Her gray-blue jacket cuffs identify her; the older man's brown-knit cuff is on the opposite side. ONE dark-red closed worn matte cardboard film box lies entirely in her hands, his hand has just withdrawn naturally and is clearly not fused with hers. Her thumb pauses on the worn lid while her other hand opens the canvas bag below, before putting the box away. Realistic five-finger hand anatomy and realistic contact, no open box, no duplicate box, no text. Soft window light, shallow but readable depth of field, quiet tactile image of paper and cloth.",
+      "references": [
+        "images/character-daughter.jpg",
+        "images/character-shopkeeper.jpg",
+        "images/scene-shop.jpg"
+      ]
+    },
+    {
+      "asset": "shot-04",
+      "output": "images/shot-04.jpg",
+      "tool": "image_gen",
+      "prompt": "Use case: photorealistic-natural. Create a new original 16:9 photographic concept frame. Image 1 references the daughter's exact identity, short black bob, gray-blue jacket, cream shirt, off-white canvas bag. Image 2 references the older shopkeeper, thin with short gray hair, brown knitted cardigan and beige shirt. Image 3 references the SAME photography shop: faded turquoise frame, large LEFT storefront window, glazed open doorway on RIGHT, glass counter on LEFT, cameras and old computer, stool. Preserve recognizable identities, clothes, interior geography, soft overcast afternoon daylight, ordinary realistic textures and dignified understated behavior. This is an original narrative illustration, not an existing film still. No captions, watermark, readable signs, extra people or collage. Shot 04: eye-level medium-wide view of the doorway from just outside, keeping a portion of the left glass storefront visible. The daughter has just stepped OUT onto the pavement through the RIGHT doorway. Her body faces away from the shop but her head turns back gently toward the shopkeeper inside; show her face in natural three-quarter profile. Her off-white bag remains over her shoulder, her hands are empty and hold only the bag strap. The small red film box has ALREADY been put inside the bag and must NOT be visible. Shopkeeper remains behind the counter in the distant interior. The threshold and glass clearly separate their spaces. Quiet restrained pause, no tears or dramatic pose.",
+      "references": [
+        "images/character-daughter.jpg",
+        "images/character-shopkeeper.jpg",
+        "images/scene-shop.jpg"
+      ]
+    },
+    {
+      "asset": "shot-05",
+      "output": "images/shot-05.jpg",
+      "tool": "image_gen",
+      "prompt": "Use case: photorealistic-natural. Create a new original 16:9 photographic concept frame. Image 1 references the daughter's exact identity, short black bob, gray-blue jacket, cream shirt, off-white canvas bag. Image 2 references the older shopkeeper, thin with short gray hair, brown knitted cardigan and beige shirt. Image 3 references the SAME photography shop: faded turquoise frame, large LEFT storefront window, glazed open doorway on RIGHT, glass counter on LEFT, cameras and old computer, stool. Preserve recognizable identities, clothes, interior geography, soft overcast afternoon daylight, ordinary realistic textures and dignified understated behavior. This is an original narrative illustration, not an existing film still. No captions, watermark, readable signs, extra people or collage. Shot 05: medium observational view from the street through the large LEFT shopfront glass. ONLY the older shopkeeper is visible inside, in his brown cardigan, behind the glass counter. He is lowering his gaze and gently organizing a plain paper sleeve on the counter, returning to routine work. Subtle realistic reflections of the empty street and tree overlay the glass but his recognizable face and hands are clear. The daughter has already left this composition. No red box anywhere; it left in her bag. Shop remains open and the overhead work light remains on, not a closing-down scene. Keep location matching image 3, no rearranged architecture.",
+      "references": [
+        "images/character-daughter.jpg",
+        "images/character-shopkeeper.jpg",
+        "images/scene-shop.jpg"
+      ]
+    },
+    {
+      "asset": "shot-06",
+      "output": "images/shot-06.jpg",
+      "tool": "image_gen",
+      "prompt": "Use case: photorealistic-natural. Create a new original 16:9 photographic concept frame. Image 1 references the daughter's exact identity, short black bob, gray-blue jacket, cream shirt, off-white canvas bag. Image 2 references the older shopkeeper, thin with short gray hair, brown knitted cardigan and beige shirt. Image 3 references the SAME photography shop: faded turquoise frame, large LEFT storefront window, glazed open doorway on RIGHT, glass counter on LEFT, cameras and old computer, stool. Preserve recognizable identities, clothes, interior geography, soft overcast afternoon daylight, ordinary realistic textures and dignified understated behavior. This is an original narrative illustration, not an existing film still. No captions, watermark, readable signs, extra people or collage. Shot 06: wide static eye-level exterior composition very closely matching image 3's front view. Empty pavement and open RIGHT doorway after the daughter's departure. NO people are visible anywhere: the older shopkeeper has moved into the off-frame rear work area and the daughter has gone beyond the frame. Same turquoise frame, LEFT glass, counter, stool, camera displays, computer, daylight and glowing work light. No red box anywhere. The shop is still working, ordinary life continues. A quiet inhabited-feeling empty entrance, not abandoned or ruined. Retain normal clear natural colors; do not change to dusk or turn off lights.",
+      "references": [
+        "images/character-daughter.jpg",
+        "images/character-shopkeeper.jpg",
+        "images/scene-shop.jpg"
+      ]
+    },
+    {
+      "asset": "shot-02",
+      "output": "images/shot-02.jpg",
+      "tool": "image_gen",
+      "prompt": "Edit image 1 only. Preserve its exact two actors, recognizable faces, body positions, clothes, off-white shoulder bag, photography-shop interior, camera framing, natural light and glass counter. Change ONLY the dark-red box in their hands: make it a compact worn matte cardboard film-storage box matching the small box's size, material, worn folded edges and dark-red color in image 2. It should fit comfortably in one adult palm, approximately 11 by 8 centimeters, not a large wooden chest. Preserve the quiet joint handover with natural hand contact and correct fingers. No duplicate box, no text, no other changes.",
+      "references": [
+        "unpublished-candidate:shot-02-v1",
+        "images/shot-03.jpg"
+      ],
+      "note": "Selected revision: smaller box to better match shot 03. References include the earlier shot-02 candidate, which is not published."
+    },
+    {
+      "asset": "storyboard",
+      "output": "images/storyboard.jpg",
+      "tool": "image_gen",
+      "prompt": "Use case: illustration-story. Asset type: photographic six-panel concept storyboard for an original short film, The Last Roll. Reference images 1 to 5 establish the five narrative beats, exact recurring character appearances, clothes, cream canvas shoulder bag, small closed dark-red worn cardboard film box, and the old turquoise photo shop. Create one storyboard image in exactly TWO columns and THREE rows, equal 16:9 landscape cells, thin black gutters, no labels or text. Reading order: TOP LEFT a wide exterior of the young short-bob woman entering the shop and the gray-haired shopkeeper visible inside; TOP RIGHT the two at the counter jointly holding the small box; MIDDLE LEFT close hand detail of the daughter holding the box above her open canvas bag as the shopkeeper's hands withdraw; MIDDLE RIGHT the daughter pauses outside the right doorway holding her bag strap, shopkeeper inside; BOTTOM LEFT the shopkeeper alone looking down and organizing behind the counter, daughter absent; BOTTOM RIGHT a NEW final wide exterior view of the SAME shopfront, echoing the first panel but now no people visible, the door open and shop work lights still on. Use the first five references in their given sequence for first five panels; generate the final empty view as described. Preserve ordinary Chinese county-town reality, overcast afternoon, muted natural colors, glass reflections, no dramatic grading, no glamorized faces, no extra people, no closing-shop signage. The red box appears only in panels 2 and 3. Keep girl in gray-blue jacket and cream shirt; old man in brown knitted cardigan and beige shirt. No text, no captions, no shot numbers, no logos or watermark. This is an original AI concept board, not existing film stills.",
+      "references": [
+        "images/shot-01.jpg",
+        "images/shot-02.jpg",
+        "images/shot-03.jpg",
+        "images/shot-04.jpg",
+        "images/shot-05.jpg"
+      ],
+      "note": "Generated overview using shots 01-05 as references; final empty shop panel generated from the description. The board is a visual summary, not a pixel-exact montage."
+    }
+  ]
+}
