@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="640" viewBox="0 0 1440 640" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">贾樟柯 Skill · 普通人的时间</title>
+  <desc id="desc">原创概念图。三个画框中的街道、身体与空位，连接空间、时间和声音；并非电影截图。</desc>
+  <defs>
+    <pattern id="lines" width="8" height="8" patternUnits="userSpaceOnUse">
+      <path d="M0 8L8 0" stroke="#EDE8D9" stroke-opacity=".025"/>
+    </pattern>
+  </defs>
+  <rect width="1440" height="640" fill="#172C29"/>
+  <rect width="1440" height="640" fill="url(#lines)"/>
+  <path d="M58 62H1382M58 572H1382" stroke="#71837B" stroke-width="1"/>
+  <text x="60" y="43" fill="#C4CDBE" font-family="Arial,sans-serif" font-size="14" letter-spacing="4">JIA ZHANGKE · STYLE NOTES</text>
+  <text x="1380" y="43" fill="#AABBAE" text-anchor="end" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">TIME / SPACE / EVERYDAY LIFE</text>
+  <g font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif">
+    <text x="60" y="173" fill="#F0ECDC" font-size="50" font-weight="600" letter-spacing="3">普通人的时间</text>
+    <text x="62" y="215" fill="#A9B9AA" font-size="20" letter-spacing="4">让生活的变化，被看见。</text>
+    <path d="M62 256H184" stroke="#BF8A66" stroke-width="3"/>
+    <text x="62" y="306" fill="#D5D9C8" font-size="19">长镜头 · 流动空间 · 画外声音</text>
+    <text x="62" y="343" fill="#D5D9C8" font-size="19">私人关系 · 流行歌舞 · 年代记忆</text>
+    <text x="62" y="426" fill="#C18D6C" font-family="Arial,sans-serif" font-size="50">09</text>
+    <text x="140" y="426" fill="#A7B7A9" font-size="17">风格模型</text>
+    <text x="268" y="426" fill="#C18D6C" font-family="Arial,sans-serif" font-size="50">18</text>
+    <text x="346" y="426" fill="#A7B7A9" font-size="17">风格维度</text>
+  </g>
+  <g transform="translate(568 116)">
+    <rect width="814" height="356" rx="2" fill="#111F1E" stroke="#6B7D73"/>
+    <rect x="18" y="20" width="246" height="264" fill="#D8D3BD"/>
+    <rect x="284" y="20" width="246" height="264" fill="#A4B09B"/>
+    <rect x="550" y="20" width="246" height="264" fill="#899E91"/>
+    <g stroke="#737E6E" stroke-width="2">
+      <path d="M18 195H264M284 195H530M550 195H796"/>
+      <path d="M44 195V92H99V195M99 128H141V195M182 195V56H242V195"/>
+      <path d="M312 195V92H367V195M367 128H409V195M450 195V56H510V195"/>
+      <path d="M578 195V92H633V195M633 128H675V195M716 195V56H776V195"/>
+    </g>
+    <g fill="#667363" opacity=".7">
+      <path d="M55 106h11v18H55zM77 106h11v18H77zM195 72h12v16h-12zM220 72h12v16h-12z"/>
+      <path d="M323 106h11v18h-11zM345 106h11v18h-11zM463 72h12v16h-12zM488 72h12v16h-12z"/>
+      <path d="M589 106h11v18h-11zM611 106h11v18h-11zM729 72h12v16h-12zM754 72h12v16h-12z"/>
+    </g>
+    <g fill="#243830">
+      <circle cx="138" cy="171" r="8"/>
+      <path d="M130 182h16l5 39h-26zM129 220h7l-3 29h-7zM143 220h7l5 29h-7z"/>
+      <circle cx="407" cy="171" r="8"/>
+      <path d="M399 182h16l5 39h-26zM398 220h7l-3 29h-7zM412 220h7l5 29h-7z"/>
+    </g>
+    <g stroke="#314C41" stroke-width="3">
+      <path d="M572 238h46M578 239v21M612 239v21M575 228h39v9"/>
+    </g>
+    <path d="M232 112h18v18h-18zM500 112h18v18h-18zM766 112h18v18h-18z" fill="#BD8660"/>
+    <g font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="17" fill="#D8DECF">
+      <text x="31" y="325">01 / 人在空间里</text>
+      <text x="297" y="325">02 / 时间经过</text>
+      <text x="563" y="325">03 / 声音仍在</text>
+    </g>
+    <path d="M30 392H790" stroke="#6F8979"/>
+    <g stroke="#C48E68" stroke-width="2">
+      <path d="M40 385v14M69 381v22M97 388v8M126 378v28M155 384v16M184 389v7M213 382v21M242 387v11M271 390v6M300 380v25M329 384v17M358 389v7M387 378v28M416 384v16M445 387v11M474 381v23M503 386v12M532 389v6M561 381v24M590 385v15M619 389v7M648 382v21M677 386v13M706 389v7M735 383v20M764 387v11"/>
+    </g>
+  </g>
+  <text x="62" y="607" fill="#A7B7A9" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">A DIRECTOR STYLE SKILL FOR ORIGINAL WORK</text>
+  <text x="1380" y="607" text-anchor="end" fill="#A7B7A9" font-family="Arial,sans-serif" font-size="11" letter-spacing="2">ORIGINAL CONCEPT GRAPHIC · NO FILM STILLS</text>
+</svg>

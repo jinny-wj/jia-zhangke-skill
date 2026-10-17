@@ -1,4 +1,4 @@
 interface:
-  display_name: "贾樟柯导演风格"
-  short_description: "记录贾樟柯的叙事、镜头、剪辑与声音方法，转成原创剧本和可拍分镜"
-  default_prompt: "请用 $jia-zhangke-skill，把我的故事写成原创短片，并说明机位、镜头切换、声音和拍摄条件。"
+  display_name: "贾樟柯 Skill"
+  short_description: "九个风格模型与十八项影像特点：人物、时代、空间、镜头、声音和剪辑"
+  default_prompt: "请用 $jia-zhangke-skill，分析这个故事适合哪些风格特点，并写出具体的人物动作、镜头、切点与声音。"
